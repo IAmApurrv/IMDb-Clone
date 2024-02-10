@@ -1,0 +1,37 @@
+react 18
+react router dom --> for routing
+	npm i react-router-dom
+
+axios --> to call APIs
+	npm i axios
+
+material ui --> css bases framework
+	npm install @mui/material @emotion/react @emotion/styled
+	npm i @mui/icons-material
+
+crousal (on home page) --> react-multi-carousel
+	npm i react-multi-carousel
+
+.jsx --> JavaScript XML
+
+
+
+
+
+
+components -->
+	is just like js function
+	takes input in form of (props)
+	return output
+	can be created by 2 ways
+		1. class based components (dont use)
+		2. function based components (use)
+
+types of exports -->
+	1. default -> 1 file can have only 1 default export (can be imported by any name)
+	2. named -> 1 file can have many named export (can be imported by same name and name should be in {})
+
+class is reserved keyword in js. React is more inclined towards js than html. So in React class is reserved keyword. Thats why we use ClassName as a html tag attriribute.
+
+
+
